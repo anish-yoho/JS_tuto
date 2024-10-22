@@ -8,7 +8,7 @@ const StringExpansion1 = (data) => {
   }
   return result;
 };
-console.log(StringExpansion1("a1b22c99"));
+console.log(StringExpansion1("a1b22c3"));
 
 function StringExpansion2(data) {
   let result = "";
@@ -20,4 +20,4 @@ function StringExpansion2(data) {
   });
   return result;
 }
-console.log(StringExpansion2("n1f23i2"));
+console.log(StringExpansion2("a1b22c3"));
